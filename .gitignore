@@ -46,6 +46,9 @@ uploads/*
 outputs/*
 !outputs/.gitkeep
 
+# Demo outputs
+demo_outputs/
+
 # Temporary files
 *.tmp
 temp/
